@@ -10,7 +10,7 @@
 3. Buka ```phpmyadmin``` dan buatlah database dengan nama terserah Anda.
 4. Kemudian pada file project ini terdapat file ```koneksi.php``` untuk konfigurasi databasenya.
 5. Buka file tersebut lalu ubah nama databasenya menjadi nama database yang Anda buat pada point no. 3 :
-    > $db       = 'nama_db';
+    > $db       = 'database';
     
     Menjadi
     
